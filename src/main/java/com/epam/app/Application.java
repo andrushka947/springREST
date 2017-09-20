@@ -18,7 +18,6 @@ public class Application extends SpringBootServletInitializer {
         SpringApplication.run(Application.class);
     }
 
-   /*
     @Bean
     public CommandLineRunner demo(final UserService userService) {
         return new CommandLineRunner() {
@@ -36,5 +35,4 @@ public class Application extends SpringBootServletInitializer {
             }
         };
     }
-    */
 }

@@ -7,7 +7,6 @@ import org.springframework.stereotype.Service;
 import com.epam.repository.UserRepository;
 
 import java.util.List;
-/*
 
 @Service
 public class UserServiceImpl implements UserService {
@@ -32,4 +31,3 @@ public class UserServiceImpl implements UserService {
         userRepository.save(user);
     }
 }
-*/
