@@ -1,5 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
-.gitignore
 .idea/
 springREST.iml
 target/
+src/test/
+*.properties

@@ -18,7 +18,7 @@ public class Application extends SpringBootServletInitializer {
         SpringApplication.run(Application.class);
     }
 
-    @Bean
+/*    @Bean
     public CommandLineRunner demo(final UserService userService) {
         return new CommandLineRunner() {
             @Override
@@ -34,5 +34,5 @@ public class Application extends SpringBootServletInitializer {
                 userService.save(user4);
             }
         };
-    }
+    }*/
 }
